@@ -6,9 +6,9 @@ sahasra
 console.log("variables.js");
 
 //variables
-let name ="sahasra"
+let name ="Sahasra"
 let age=15
-let pocketMoney=40
+let pocketMoney=80
 let year=2025
 var myNumber = 15
 var myOtherNumber = 5
