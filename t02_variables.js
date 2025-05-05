@@ -18,6 +18,7 @@ console.log("you have" , pocketMoney, "dollars")
 
 
 
+
 /******** 
 functions
 ********/
