@@ -15,7 +15,7 @@ let year=2025
 main code
 ********/
 console.log("you have" , pocketMoney, "dollars")
-
+console.log(hi)
 
 
 
