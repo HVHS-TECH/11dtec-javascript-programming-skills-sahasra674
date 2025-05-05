@@ -14,7 +14,7 @@ let year=2025
 /******** 
 main code
 ********/
-
+let pocketMoney =3
 
 
 
