@@ -6,7 +6,7 @@ sahasra
 console.log("variables.js");
 
 //variables
-name =sahasra
+let name ="sahasra"
 let age=15
 let pocketMoney=40
 let year=2025
