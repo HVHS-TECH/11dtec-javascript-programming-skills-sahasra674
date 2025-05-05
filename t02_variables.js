@@ -6,7 +6,10 @@ sahasra
 console.log("variables.js");
 
 //variables
-
+sahasra
+15
+40
+2025
 
 /******** 
 main code
