@@ -10,7 +10,7 @@ let name ="sahasra"
 let age=15
 let pocketMoney=40
 let year=2025
-
+var myNumber = 15
 /******** 
 main code
 ********/
@@ -18,7 +18,7 @@ main code
 console.log("hi" , name)
 console.log("as of" , year , "you are" , age , "years old")
 console.log("you have" , pocketMoney, "dollars")
-
+console.log()
 
 /******** 
 functions
