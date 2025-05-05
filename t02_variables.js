@@ -6,10 +6,10 @@ sahasra
 console.log("variables.js");
 
 //variables
-=sahasra
-age=15
-pocketMoney=40
-year=2025
+name =sahasra
+let age=15
+let pocketMoney=40
+let year=2025
 
 /******** 
 main code
