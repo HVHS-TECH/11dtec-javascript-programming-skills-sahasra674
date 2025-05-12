@@ -16,15 +16,7 @@ var halfMoney= 2
 /******** 
 main code
 ********/
-console.log("as of" , year , "you are" , age , "years old")
-console.log("you were born in" , birthYear)
-console.log("hi" , name)
-console.log("as of" , year , "you are" , age , "years old")
-console.log("you were born in" , birthYear)
-console.log("you have" , pocketMoney, "dollars")
-console.log("in 10 years you will be" , birthYear , "years old")
-console.log("you have" , pocketMoney, "dollars" )
-console.log("half of you money is" , pocketMoney/halfMoney)
+alert("welcome to the program")
 
 /******** 
 functions
