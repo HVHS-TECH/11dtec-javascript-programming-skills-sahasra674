@@ -23,7 +23,7 @@ console.log("you have" , pocketMoney, "dollars")
 console.log("in 10 years you will be" , myNumber+ 10 , "years old")
 console.log("you have" , pocketMoney, "dollars" )
 console.log("half of you money is" , pocketMoney/myOtherNumber )
- var username=prompt("what is your name?", sahasra)
+var username=prompt("what is your name?")
 /******** 
 functions
 ********/
