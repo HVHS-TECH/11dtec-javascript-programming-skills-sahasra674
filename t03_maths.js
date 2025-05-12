@@ -16,7 +16,7 @@ var halfMoney= 2
 /******** 
 main code
 ********/
-alert("welcome to the program")
+alert("welcome to the program");
 
 /******** 
 functions
