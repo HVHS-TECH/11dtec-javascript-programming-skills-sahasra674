@@ -12,7 +12,7 @@ let pocketMoney= 40
 let year= 2025
 let birthYear= year-age
 var tenYearsOlder = +10
-var halfMoney= /2
+var halfMoney= 2
 /******** 
 main code
 ********/
