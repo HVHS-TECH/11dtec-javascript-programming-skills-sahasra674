@@ -24,7 +24,7 @@ console.log("you were born in" , birthYear)
 console.log("you have" , pocketMoney, "dollars")
 console.log("in 10 years you will be" , birthYear , "years old")
 console.log("you have" , pocketMoney, "dollars" )
-console.log("half of you money is" , pocketMoney/myOtherNumber )
+console.log("half of you money is" , pocketMoney/halfMoney )
 
 /******** 
 functions
