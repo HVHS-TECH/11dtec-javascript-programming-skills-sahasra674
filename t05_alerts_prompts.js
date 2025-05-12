@@ -23,6 +23,7 @@ console.log("you have" , pocketMoney, "dollars")
 console.log("in 10 years you will be" , age + 10 , "years old")
 console.log("you have" , pocketMoney, "dollars" )
 console.log("half of you money is" , pocketMoney/2 )
+alert("welcome to the program!")
 var username=prompt("what is your name?")
 /******** 
 functions
