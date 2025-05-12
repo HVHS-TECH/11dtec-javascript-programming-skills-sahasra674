@@ -11,8 +11,7 @@ let age=100
 let pocketMoney= 40
 let year=2025
 let birthYear= year-age
-var myNumber = 15
-var myOtherNumber = 2
+
 /******** 
 main code
 ********/
