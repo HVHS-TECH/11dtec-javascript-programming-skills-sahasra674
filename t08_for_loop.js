@@ -1,26 +1,15 @@
 /************************************* 
-task 1 introduction.js 
-sahasra 
-29/4/25 
+ task 1 introduction.js 
+ sahasra 
+ 29/4/25 
 **************************************/
-console.log("for loop.js");
+console.log("introduction.js");
 
-//variables
-var numberOne= 0-5;
-var numberTwo= 0-5;
-var numberThree= 0-5;
-var numberFour= 0-5;
-var numberFive= 0-5;
+// Main code
+alert("Welcome to the program!");
 
-
-/******** 
-main code
-*******/
-alert("welcome to the program!")
-var numberOne=prompt("what is your 1st number?")
-var numberTwo=prompt("what is you 2nd number?")
-var numberThree=prompt("what is your 3rd number?")
-var numberFour= prompt("what is your 4th number?")
-var numberFive= prompt("what is your 5th number?")
-
-
+let numberOne = Number(prompt("What is your 1st number?"));
+let numberTwo = Number(prompt("What is your 2nd number?"));
+let numberThree = Number(prompt("What is your 3rd number?"));
+let numberFour = Number(prompt("What is your 4th number?"));
+let numberFive = Number(prompt("What is your 5th number?"));
