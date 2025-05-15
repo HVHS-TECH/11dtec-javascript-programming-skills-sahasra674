@@ -32,7 +32,7 @@ alert("person "+choice+ " is " +classArray[choice]);
 
 if (condition){
     block of code to be excecuted if condition is true
-} else{ 
+} else { 
     block of code to be executed if condition is false
 }
 
