@@ -29,7 +29,13 @@ var money=prompt("how much pocketMoney do you have?")
 var choice =prompt("on a scale of 0-3 how much do you chocolate? ")
 let classArray =["You loath chocolate", "Chocolate is meh", "Chocolate is pretty good", "Chocolate is the best thing EVER!!!!"]
 alert("person "+choice+ " is " +classArray[choice]);
-if( pocket Money < 4){
+if( pocketMoney < 4){
+    console.log (" definetly broke ")
+}
+if( pocketMoney < 4){
+    console.log (" definetly broke ")
+}
+if( pocketMoney < 4){
     console.log (" definetly broke ")
 }
 /******** 
