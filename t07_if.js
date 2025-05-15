@@ -32,11 +32,11 @@ alert("person "+choice+ " is " +classArray[choice]);
 if( pocketMoney < 4){
     console.log (" definetly broke ")
 }
-if( pocketMoney < 4){
-    console.log (" definetly broke ")
+if( pocketMoney == 4){
+    console.log (" just right ")
 }
-if( pocketMoney < 4){
-    console.log (" definetly broke ")
+if( pocketMoney > 4){
+    console.log (" richy rich ")
 }
 /******** 
 functions
