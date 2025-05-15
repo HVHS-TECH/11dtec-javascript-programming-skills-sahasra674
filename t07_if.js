@@ -38,6 +38,7 @@ alert("person "+choice+ " is " +classArray[choice]);
 console.log("hi", name ,) 
 console.log("i predict you were born in", birthYear, )
 console.log("your pocketMoney is", pocketMoney, "dollars")
+
 if( pocketMoney < 4){
     console.log (" you cant afford a chocolate bar ")
 }
