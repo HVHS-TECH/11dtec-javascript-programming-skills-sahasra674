@@ -32,6 +32,10 @@ alert("person "+choice+ " is " +classArray[choice]);
 
 
 
+
+
+
+console.log("hi", name , "i predict you were born in", birthYear, "your pocketMoney is", pocketMoney, "dollars")
 if( pocketMoney < 4){
     console.log (" definetly broke ")
 }
@@ -41,9 +45,6 @@ if( pocketMoney == 4){
 if( pocketMoney > 4){
     console.log (" richy rich ")
 }
-
-console.log("hi", name , "i predict you were born in", birthYear, "your pocketMoney is", pocketMoney, "dollars")
-
 /******** 
 functions
 ********/
