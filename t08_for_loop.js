@@ -6,6 +6,11 @@ sahasra
 console.log("for loop.js");
 
 //variables
+var numberOne= 1;
+var numberTwo= 2;
+var numberThree= 3;
+var numberFour= 4;
+var numberFive= 5;
 
 
 /******** 
