@@ -14,7 +14,7 @@ let numberThree= 3
 main code
 ********/
 console.log("starting loop")
-for(count=3; count<20; count++);{
+for(count=20; count<20; count++);{
 console.log("current count :" + count);
 }
 console.log("loop stopped")
