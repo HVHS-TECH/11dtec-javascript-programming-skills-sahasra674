@@ -18,10 +18,11 @@ for(count=0; count < 20; count++);{
 console.log("current count :" + count);
 }
 console.log("loop stopped")
-/******** 
-functions
-********/
+
 function getFavColour(){
 userFaveColour= prompt("what is you favorite colour?")
 alert("your favorite colour is:"+ userFavColour)
 }
+/******** 
+functions
+********/
