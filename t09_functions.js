@@ -21,3 +21,7 @@ console.log("loop stopped")
 /******** 
 functions
 ********/
+function getFavColour(){
+userFaveColour= prompt("what is you favorite colour?")
+alert("your favorite colour is:"+ userFavColour)
+}
