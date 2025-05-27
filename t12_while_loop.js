@@ -1,2 +1,4 @@
 var password= prompt("speak 'friend' and enter");
-while (password!
+while (password !="friend"){
+    
+}
